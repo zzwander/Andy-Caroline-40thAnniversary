@@ -51,7 +51,10 @@ nav .nav-item a:hover{
 @media only screen and (max-width: 767px) {
     .slider-area{
         background-image: url(./image3.jpg);
-    }    
+    } 
+    .slider-text{
+        top: 35%;
+    }
     .slider-text h1{
         font-size: 28px;
         color: white;
