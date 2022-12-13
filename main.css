@@ -70,19 +70,20 @@ nav .nav-item a:hover{
     text-align: center;
     padding-top: 4%;
     padding-bottom: 3%;
+
 }
 .about-img img {
     width: 40%;
     padding-bottom: 3%;
+
 }
 @media only screen and (max-width:767px){
     .about-img img{
         width: 80%;
     }
+}
 .about-img {
     margin: auto;
-
-
 }
 .item-text {
     padding-left: 40px;
@@ -91,10 +92,10 @@ nav .nav-item a:hover{
 }
 .carousel-inner {
     background-color: lightgray;
-    width: 50%;
-    height: 40%;
+    width: 55%;
+    height: 45%;
 }
-    @media only screen and (max-width:767px){
+@media only screen and (max-width:767px){
     .carousel-inner {
         width: 100%;
     }
@@ -112,16 +113,11 @@ nav .nav-item a:hover{
 }
 .location-text {
     padding-left: 15px;
-    padding-right: 15px;
     font-size: 17.5px;
 }
 .location-area {
     background-color: lightgray;
     padding-bottom: 30px;
-}
-.location-img {
-    padding-right: 15px;
-    padding-left: 15px;
 }
 .btn {
     font-size: 20px;
@@ -142,6 +138,10 @@ nav .nav-item a:hover{
     box-shadow: 0 0 20px rgba(0,0,0,0.5);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+}
+.location-img {
+    padding-right: 15px;
+    padding-left: 15px
 }
 .footer {
     padding-top: 20px;
