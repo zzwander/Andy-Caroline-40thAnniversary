@@ -50,7 +50,7 @@ nav .nav-item a:hover{
  }
 @media only screen and (max-width: 767px) {
     .slider-area{
-        background-image: url(./image3.jfif);
+        background-image: url(./image3.jpg);
     }    
     .slider-text h1{
         font-size: 30px;
@@ -68,7 +68,7 @@ nav .nav-item a:hover{
 }
 @media only screen and (min-width: 767px) and (max-width: 1025px) {
     .slider-area{
-        background-image: url(./image3.jfif);
+        background-image: url(./image3.jpg);
     }    
     .slider-text h1{
         font-size: 55px;
