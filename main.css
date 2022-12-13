@@ -66,7 +66,7 @@ nav .nav-item a:hover{
         max-width: 65%;
     }
 }
-@media only screen and (max-width: 1025px) {
+@media only screen and (min-width: 767px) and (max-width: 1025px) {
     .slider-area{
         background-image: url(./image2.jfif);
     }    
@@ -95,7 +95,7 @@ nav .nav-item a:hover{
     padding-bottom: 3%;
 
 }
-@media only screen and (max-width:767px){
+@media only screen and (max-width:1025px){
     .about-img img{
         width: 80%;
     }
@@ -113,7 +113,7 @@ nav .nav-item a:hover{
     width: 55%;
     height: 45%;
 }
-@media only screen and (max-width:767px){
+@media only screen and (max-width:1025px){
     .carousel-inner {
         width: 100%;
     }
