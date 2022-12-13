@@ -50,7 +50,7 @@ nav .nav-item a:hover{
  }
 @media only screen and (max-width: 767px) {
     .slider-area{
-        background-image: url(./image2.jfif);
+        background-image: url(./image3.jfif);
     }    
     .slider-text h1{
         font-size: 30px;
@@ -68,15 +68,15 @@ nav .nav-item a:hover{
 }
 @media only screen and (min-width: 767px) and (max-width: 1025px) {
     .slider-area{
-        background-image: url(./image2.jfif);
+        background-image: url(./image3.jfif);
     }    
     .slider-text h1{
-        font-size: 65px;
+        font-size: 55px;
         color: white;
         text-shadow: 2px 2px 15px black;
     }
     .slider-text h3{
-        font-size: 45px;
+        font-size: 35px;
         color: white;
         text-shadow: 2px 2px 15px black;
     }
