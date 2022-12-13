@@ -48,7 +48,7 @@ nav .nav-item a:hover{
    text-shadow: 1px 1px 10px darkgray;
    padding-bottom: 1rem;
  }
-@media only screen and (max-width: 1025px) {
+@media only screen and (max-width: 767px) {
     .slider-area{
         background-image: url(./image2.jfif);
     }    
@@ -59,6 +59,23 @@ nav .nav-item a:hover{
     }
     .slider-text h3{
         font-size: 22px;
+        color: white;
+        text-shadow: 2px 2px 15px black;
+    }
+    .navbar-brand img{
+        max-width: 65%;
+    }
+    @media only screen and (max-width: 1025px) {
+    .slider-area{
+        background-image: url(./image2.jfif);
+    }    
+    .slider-text h1{
+        font-size: 50px;
+        color: white;
+        text-shadow: 2px 2px 15px black;
+    }
+    .slider-text h3{
+        font-size: 35px;
         color: white;
         text-shadow: 2px 2px 15px black;
     }
