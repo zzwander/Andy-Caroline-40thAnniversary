@@ -27,7 +27,7 @@ nav .nav-item a:hover{
     position: relative;
 }
  .slider-text{
-    color: #2e2e2e;
+    color: white;
     position: absolute;
     padding-right: 10%;
     top: 40%;
@@ -35,7 +35,7 @@ nav .nav-item a:hover{
 }
  .slider-text h1{
     font-size: 365%;
-    text-shadow: 2px 2px 15px darkgray;
+    text-shadow: 3px 3px 15px black;
     font-weight: bold;
  }
  .item-text{
@@ -45,7 +45,7 @@ nav .nav-item a:hover{
  .slider-text h3{
    font-size: 210%;
    font-weight: bold;
-   text-shadow: 1px 1px 10px darkgray;
+   text-shadow: 3px 3px 15px black;
    padding-bottom: 1rem;
  }
 @media only screen and (max-width: 767px) {
